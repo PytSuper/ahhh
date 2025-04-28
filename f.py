@@ -1,7 +1,8 @@
 # Version 1.0
 # Integrantes: Elian Olivares, Camilo Galeano, Enrique Solis, Joshua Vilchez
 # Fecha: 28/04/2025
-# Descripción: Este programa permite gestionar una ruta de estaciones, donde se pueden agregar estaciones y calcular el tiempo estimado entre dos estaciones.
+# Descripción: Este programa permite gestionar una ruta de estaciones,
+# donde se pueden agregar estaciones y calcular el tiempo estimado entre dos estaciones.
 
 from ruta import Ruta
 
